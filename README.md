@@ -12,7 +12,7 @@ Bots for playing Bad apple
 * choco | https://chocolatey.org/install
 
 | NonModules | 
-ffmpeg | https://community.chocolatey.org/packages/ffmpeg 
+* ffmpeg | https://community.chocolatey.org/packages/ffmpeg 
 
 | What to do next? |
 
