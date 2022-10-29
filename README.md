@@ -20,7 +20,7 @@ Bots for playing Bad apple
 * Put the mp4 and mp3 file of badapple ("badapple.mp4", "badapple.mp3") inside of it.
 * Run the file "badapple frame maker.py"
 * Once done run the file "playing pygame.py"
-* Get 5 Discord bot tokens and put them to "bad apple discord.py" and id of your channel on line 71.
-* run "bad apple discord.py"
+* Get 5 Discord bot tokens and put them to "bad apple.py" and id of your channel on line 71.
+* run "bad apple.py"
 * Go to some vc
 * write !start
